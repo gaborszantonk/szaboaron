@@ -1,5 +1,8 @@
 header{width:100%; background-color:rgba(247, 202, 24, 1); position: fixed; top:0px;left: 0px;z-index: 2; text-align: center;} 
 body{background-image: url(pict/kutya.jpg);background-repeat:no-repeat; background-attachment: fixed; background-position: center; background-size: cover}
-#elso{width: 33%;margin-top: 5%;background-color: purple;float:left;}
-#ketto{width: 33%;margin-top: 5%;background-color: purple;float:left;}
-#harom{width: 33%;margin-top: 5%;background-color: purple;float:left;}
+#nem1{text-align:center; color:green;}
+#igen{width: 33%;margin-top: 5%;background-color: purple;float:left;}
+#nem{width: 33%;margin-top: 5%;background-color: purple;float:left;}
+#az{width: 33%;margin-top: 5%;background-color: purple;float:left;}
+.torles{clear:both;}
+.wasd{clear:both;}
