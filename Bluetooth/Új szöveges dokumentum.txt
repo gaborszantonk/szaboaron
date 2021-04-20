@@ -11,4 +11,4 @@ As mentioned earlier, Bluetooth is often used to pair mobile devices with other 
 Because Bluetooth and Wi-Fi are often complementary, working at the same time and offering much the same connectivity, you may not always know which hardware is pairing with which devices. Just know that if in range, devices previously paired via Bluetooth will try to automatically connect.
 Because you often won't even realize when devices are connecting to one another via Bluetooth, it's a good idea to occasionally pop open your settings app on your phone (or any other device with Bluetooth connectivity), head to the Bluetooth tab, and take a look at all the devices that could potentially connect and note anything that is, in fact, already connected.
 
-And if you ever get rid of a Bluetooth device or plan not to use it for a long time, by all means opt to "Forget this device" in your Settings app so you know you are maintaining control of the connection.
+And if you ever get rid of a Bluetooth device or plan not to use it for a long time, by all means opt to "Forget this device" in your Settings app so you know you are maintaining control of the connection..
