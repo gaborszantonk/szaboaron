@@ -1,0 +1,14 @@
+A Bluetooth rövid hatótávolságú, adatcseréhez használt, nyílt, vezetéknélküli szabvány. 
+Alkalmazásával számítógépek, mobiltelefonok (telefonkihangosítók) és egyéb készülékek között automatikusan létesíthetünk kis hatótávolságú rádiós kapcsolatot.
+Az 1.2-es verzió 1 Mbps-os, a 2.0-s Bluetooth pedig 3 Mbps-os adatátviteli sebességet tesz lehetővé a világszerte szabadon elérhető 2,4 gigahertzes frekvenciasávban. 
+Európában és az Egyesült Államokban a 2,402 GHz és 2,480 GHz közötti 79 db 1 MHz-es sávban, Japánban a 2,472 és 2,497 GHz közötti 23 db 1 MHz-es sávban.
+Amikor bármelyik két eszköznek kommunikálnia kell egymással, a beszélgetés megkezdése előtt számos pontban meg kell állapodniuk. A megállapodás első pontja fizikai: vezetéken vagy vezeték nélküli jeleken fognak beszélni? Ha vezetéket 
+használnak, hány szükséges - egy, kettő, nyolc vagy 25?
+
+What Bluetooth is used for
+As mentioned earlier, Bluetooth is often used to pair mobile devices with other mobile or fixed devices. This could be your earbuds, your car, and your smart fridge. But it is often also working in ways that are less immediately apparent, such as linking a printer or mouse to a computer.
+
+Because Bluetooth and Wi-Fi are often complementary, working at the same time and offering much the same connectivity, you may not always know which hardware is pairing with which devices. Just know that if in range, devices previously paired via Bluetooth will try to automatically connect.
+Because you often won't even realize when devices are connecting to one another via Bluetooth, it's a good idea to occasionally pop open your settings app on your phone (or any other device with Bluetooth connectivity), head to the Bluetooth tab, and take a look at all the devices that could potentially connect and note anything that is, in fact, already connected.
+
+And if you ever get rid of a Bluetooth device or plan not to use it for a long time, by all means opt to "Forget this device" in your Settings app so you know you are maintaining control of the connection.
